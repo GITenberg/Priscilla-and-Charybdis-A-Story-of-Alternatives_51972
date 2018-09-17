@@ -1,5 +1,8 @@
 _repo: Priscilla-and-Charybdis-A-Story-of-Alternatives_51972
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51972-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frank Frankfort
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/837
     wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51972#Priscilla-and-Charybdis-A-Story-of-Alternatives
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
